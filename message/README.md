@@ -1,17 +1,22 @@
 ﻿# code-for-khush
-Date Invitation Webpage
-This project is a fun and interactive webpage that invites someone on a date with a playful twist. The page is styled using CSS, and JavaScript is used to add interactive behavior.
+**Date Invitation Webpage**
 
-Project Structure
-HTML File (index.html): The structure of the webpage.
-CSS File (style.css): The styling and layout of the webpage.
-JavaScript File (script.js): The interactivity logic for the webpage.
-How It Works
-HTML (index.html):
+    This project is a fun and interactive webpage that invites someone on a date with a playful twist. The page is styled using CSS, and JavaScript is used to add       interactive behavior.
+
+**Project Structure**
+
+    *HTML File (index.html): The structure of the webpage.
+    *CSS File (style.css): The styling and layout of the webpage.
+    *JavaScript File (script.js): The interactivity logic for the webpage.
+
+**How It Works**
+
+1). HTML (index.html):
 
 The webpage has a simple structure with a title, a question, and two buttons ("Yes" and "No").
 It also includes an image (GIF) to make the invitation more engaging.
 The buttons allow the user to respond to the question.
+
 CSS (style.css):
 
 The styling is done to center the content on the page and style the buttons.
